@@ -16,6 +16,10 @@ The script will automatically retrieve the user ID of this account and ask you t
 Optionally, you can speed up reports using multithreading.
 
 # Features
-User Friendly Interface: Users can use the script through a simple text-based interface.
-Proxy Support: You can anonymously report Instagram accounts using proxy servers.
-Multi-Threading Support: In case the need arises, 
+
+# User Friendly Interface: 
+Users can use the script through a simple text-based interface.
+# Proxy Support: 
+You can anonymously report Instagram accounts using proxy servers.
+# Multi-Threading Support: 
+In case the need arises, 
