@@ -2,8 +2,6 @@
 
 This Python script can be used to report Instagram accounts for certain violations. After users enter a specific Instagram username, the script automatically retrieves the Instagram User ID of that account. Users can then select a reason to report that account and, if necessary, report multiple accounts simultaneously using multithreading.
 
-# How to Use
-
 # Requirements
 Python 3 is required to run this script. It also requires the standard libraries requests, re, time, and random, and the multiprocessing module.
 # Installation
